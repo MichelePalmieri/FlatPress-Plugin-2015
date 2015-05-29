@@ -1,0 +1,26 @@
+.cookieEU-msg {
+    position : fixed;
+    bottom : 0;
+    left : 0;
+    right : 0;
+    background : #FF7373;
+    color : #000;
+    z-index : 1999;
+    padding : 20px;
+    text-align : center;
+    font-size : 14px;
+    line-height : 28px;
+    fontFamily : Helvetica neue, Helvetica, sans-serif;
+}
+.cookieEU-btnmsg {
+    background : #238C00;
+    color : #000000;
+    text-decoration :none;
+    display : inline-block;
+    padding : 0 15px;
+    margin : 0 0 0 10px;
+}
+.cookieEU-linkmsg {
+/*    background = #FF0000;
+    color : #000;*/
+}
